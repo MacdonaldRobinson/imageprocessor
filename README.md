@@ -4,7 +4,7 @@ This is a PHP image processor webservice who's only requirement is having GD ena
 It is a standalone webservice and accepts 3 different params:
  - url - Required: the url to the image / also works with external image urls
  - size - Optional: 1 of 3 values 'thumb', 'medium', 'full'
- - folder - Optional: The name of the folder to place the cache in
+ - folder - Optional: The name of the cache folder to place the cache in, this is relative to the root cache folder which is './cache/'
  
  # Usage
  ```url
