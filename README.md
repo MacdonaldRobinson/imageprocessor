@@ -1,7 +1,7 @@
 # Imageprocessor
 This is a standalone on the fly PHP image processing webservice who's only requirement is having GD enabled.
 
-It optimizes and caches images so the next time the request is made to the same url, it simply loads it from cache which makes it extreamly fast.
+It optimizes and caches images so the next time the request is made to the same url, it simply loads it from cache which makes it extremely fast.
 
 It accepts 3 different params:
  - url - Required: the url to the image / also works with external image urls
