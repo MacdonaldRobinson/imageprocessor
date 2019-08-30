@@ -9,5 +9,5 @@ It is a standalone webservice and accepts 3 different params:
  # Usage
  `html
  /imageprocessor/index.php?url=[URL_TO_IMAGE]&size=[thumb|medium|full]&folder=[FOLDER_NAME]
- `html
+ `
 
