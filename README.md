@@ -1,5 +1,5 @@
 # Imageprocessor
-This is a PHP image processor webservice who's only requirement is having GD enabled.
+This is a standalone on the fly PHP image processing webservice who's only requirement is having GD enabled.
 
 It is a standalone webservice and accepts 3 different params:
  - url - Required: the url to the image / also works with external image urls
