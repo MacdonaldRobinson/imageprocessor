@@ -10,6 +10,8 @@ It accepts 3 different params:
  
  # Usage
  ```
- /index.php?url=[URL_TO_IMAGE]&size=[thumb|medium|full]&folder=[FOLDER_NAME]
+ /index.php?url=[URL_TO_IMAGE]&size=[thumb|medium|full|custom]&folder=[FOLDER_NAME][&width=500&height=300]
+ 
+ Please note: the width and height are only applicable to the "custom" size
  ```
 
