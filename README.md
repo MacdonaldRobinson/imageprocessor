@@ -5,7 +5,7 @@ It optimizes and caches images so the next time the request is made to the same 
 
 It accepts 3 different params:
  - url - Required: the url to the image / also works with external image urls
- - size - Optional: 1 of 3 values 'thumb', 'medium', 'full' which correspond to a 25%, 50% and 100% of the original size
+ - size - Optional: 1 of 4 values 'thumb', 'medium', 'full' and 'custom' which correspond to a 25%, 50% and 100% of the original size and the "custom" option allows you to specify the desired width and height 
  - folder - Optional: The name of the cache folder to place the cache in, this is relative to the root cache folder which is './cache/'
  
  # Usage
