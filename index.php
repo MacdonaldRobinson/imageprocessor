@@ -60,8 +60,8 @@
 			{
 				$default_image = '';
 
-				$thumb_default = "http://" . $_SERVER['SERVER_NAME'] . "/wp-content/themes/rohitcommunities/images/qpm/qpm-fallback.gif";
-				$large_default = "http://" . $_SERVER['SERVER_NAME'] . "/wp-content/themes/rohitcommunities/images/qpm/qpm-fallback-large.gif";
+				$thumb_default = "http://" . $_SERVER['SERVER_NAME'] . "/fallback.gif";
+				$large_default = "http://" . $_SERVER['SERVER_NAME'] . "/fallback-large.gif";
 
 				if($size == 'thumb')
 				{
